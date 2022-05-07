@@ -17,6 +17,11 @@
       "direction": "up",
       "offset": 0,
       "map": "MAP_ROUTE101"
+    },
+    {
+      "direction": "down",
+      "offset": -6,
+      "map": "MAP_FARAWAY_ISLAND_ENTRANCE"
     }
   ],
   "object_events": [
